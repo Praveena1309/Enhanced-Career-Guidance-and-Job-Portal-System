@@ -7,8 +7,6 @@ SAMPLE SCREENSHOTS
 
 <img width="1425" alt="Screenshot 2024-07-10 at 3 55 29 PM" src="https://github.com/Praveena1309/Enhanced-Career-Guidance-and-Job-Portal-System/assets/121342359/fd98235b-c133-426f-b320-b13497149e54">
 
-<img width="1423" alt="Screenshot 2024-07-10 at 3 56 00 PM" src="https://github.com/Praveena1309/Enhanced-Career-Guidance-and-Job-Portal-System/assets/121342359/ea8eb7ec-58b5-4aa2-af52-dd1ac3835f14">
-
 <img width="1423" alt="Screenshot 2024-07-10 at 3 56 00 PM 1" src="https://github.com/Praveena1309/Enhanced-Career-Guidance-and-Job-Portal-System/assets/121342359/701b2c9e-790e-48c1-8700-371af10f37d4">
 
 <img width="1411" alt="Screenshot 2024-07-10 at 3 56 13 PM" src="https://github.com/Praveena1309/Enhanced-Career-Guidance-and-Job-Portal-System/assets/121342359/ff9e18c0-cef1-48a8-aff8-4a47c5904973">
